@@ -96,8 +96,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## References
 [1] Steinberger, Lerer, Brown. "DREAM: Deep Regret minimization with Advantage baselines and Model-free learning." arXiv preprint https://arxiv.org/abs/2006.10410 (2020).
 
-[2] Steinberger, Eric. "Single Deep Counterfactual Regret Minimization." arXiv preprint arXiv:1901.07621 (2019).
+[2] Steinberger, Eric. "Single Deep Counterfactual Regret Minimization." arXiv preprint https://arxiv.org/abs/1901.07621 (2019).
 
-[3] Brown, Noam, et al. "Deep Counterfactual Regret Minimization." ICML. 2019.
+[3] Brown, Noam, et al. "Deep Counterfactual Regret Minimization." arXiv preprint https://arxiv.org/abs/1811.00164 (2019).
 
-[4] Heinrich, Johannes, and David Silver. "Deep reinforcement learning from self-play in imperfect-information games." arXiv preprint arXiv:1603.01121 (2016).
+[4] Heinrich, Johannes, and David Silver. "Deep reinforcement learning from self-play in imperfect-information games." arXiv preprint https://arxiv.org/abs/1603.01121 (2016).
