@@ -80,7 +80,7 @@ If you use this repository in your research, you can cite it by citing PokerRL a
 
 
 ## Code Authors
-* **Eric Steinberger** | [Twitter](https://twitter.com/EricSteinb), [LinkedIn](https://www.linkedin.com/in/ericsteinb/)
+* **Eric Steinberger** | [Twitter](https://twitter.com/EricSteinb), [LinkedIn](https://www.linkedin.com/in/ericsteinb/), [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Eric+Steinberger)
 
 
 
