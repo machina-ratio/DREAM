@@ -101,3 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [3] Brown, Noam, et al. "Deep Counterfactual Regret Minimization." arXiv preprint https://arxiv.org/abs/1811.00164 (2019).
 
 [4] Heinrich, Johannes, and David Silver. "Deep reinforcement learning from self-play in imperfect-information games." arXiv preprint https://arxiv.org/abs/1603.01121 (2016).
+
+[0]. Heinrich, Lanctot, Silver. "Fictitious Self-Play in Extensive-Form Game" Proceedings of the 32 nd International Conference on Machine
+Learning, Lille, France,  http://proceedings.mlr.press/v37/heinrich15.pdf (2015)
